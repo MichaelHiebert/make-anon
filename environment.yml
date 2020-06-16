@@ -1,0 +1,8 @@
+name: make-anon
+
+dependencies:
+  - pip
+  - python>=3.8
+  - pip:
+    - numpy
+    - opencv-python

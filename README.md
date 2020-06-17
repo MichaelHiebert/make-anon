@@ -1,7 +1,7 @@
 # RedactMe
 An open source image anonymizer.
 
-<img src="assets/protest.jpg" width="400"/> <img src="assets/redacted.jpg" width="400"/> 
+![RedactMe Banner](assets/banner.jpg)
 
 ## Table of Contents
 
@@ -16,5 +16,3 @@ An open source image anonymizer.
 conda env create -f environment.yml
 conda activate make-anon
 ```
-
-# Gallery

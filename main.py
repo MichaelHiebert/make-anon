@@ -7,6 +7,3 @@ if __name__ == "__main__":
     redacted = image.redact_faces(frame, boxes)
 
     cv2.imwrite('assets/redacted.jpg', redacted)
-
-    # cv2.imshow('1', redacted)
-    # cv2.waitKey(0)

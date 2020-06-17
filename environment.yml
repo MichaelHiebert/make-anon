@@ -6,3 +6,6 @@ dependencies:
   - pip:
     - numpy
     - opencv-python
+    - torch
+    - torchvision
+    - facenet-pytorch

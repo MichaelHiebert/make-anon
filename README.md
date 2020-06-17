@@ -1,7 +1,7 @@
 # RedactMe
 An open source image anonymizer.
 
-<img src="assets/protest.jpg" width="500"/> <img src="assets/redacted.jpg" width="500"/> 
+<img src="assets/protest.jpg" width="400"/> <img src="assets/redacted.jpg" width="400"/> 
 
 ## Table of Contents
 

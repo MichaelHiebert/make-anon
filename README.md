@@ -7,7 +7,7 @@ An open source image anonymizer.
 
 - [Quickstart](#quickstart)
     - [Environment](#environment)
-- [Gallery](#gallery)
+    - [Local Usage](#local-usage)
 
 # Quickstart
 
@@ -16,3 +16,9 @@ An open source image anonymizer.
 conda env create -f environment.yml
 conda activate make-anon
 ```
+
+## Local Usage
+```
+python main.py <PATH_TO_IMAGE>
+```
+This will save your image with the redactions to `redacted_<PATH_TO_IMAGE>`, e.g. `test.jpg` to `redacted_test.jpg`.

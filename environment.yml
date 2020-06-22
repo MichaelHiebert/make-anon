@@ -1,4 +1,4 @@
-name: make-anon
+name: redactme
 
 dependencies:
   - pip
